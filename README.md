@@ -1,0 +1,2 @@
+# coin
+Coin binary, hsr
